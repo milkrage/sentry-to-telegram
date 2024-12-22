@@ -1,5 +1,5 @@
 ---
 sentry:
   hostname: sentry.io
-  client_id: 107f2df7b7de47059bd2c702604d0ac6888ce3804ced4284afec2c14c66754c0
-  client_secret: 47d728c07af54c248fe582bc231fa7af712ee18a0b8b4656a3a991821be70eee
+  client_id: string
+  client_secret: string
