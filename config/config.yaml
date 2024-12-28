@@ -1,0 +1,5 @@
+---
+sentry:
+  hostname: sentry.io
+  client_id: string
+  client_secret: string
